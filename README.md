@@ -3,5 +3,9 @@
 # 使用
 发布：
 <code>
-  grunt releave
+  <p>grunt releave</p>
+</code>
+# server：
+<code>
+  <p>grunt server</p>
 </code>
