@@ -3,13 +3,11 @@
 # 使用
 发布：
 <p>
-<code>
-  grunt releave
-</code>
+<pre><code>grunt releave
+</code></pre>
 </p>
 # server：
 <p>
-<code>
-  grunt server
-</code>
+<pre><code>grunt server
+</code></pre>
 </p>
