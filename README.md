@@ -2,10 +2,14 @@
 一个简单的requirejs合并压缩例子
 # 使用
 发布：
+<p>
 <code>
-  <p>grunt releave</p>
+  grunt releave
 </code>
+</p>
 # server：
+<p>
 <code>
-  <p>grunt server</p>
+  grunt server
 </code>
+</p>
