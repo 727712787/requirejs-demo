@@ -2,10 +2,10 @@
 一个简单的requirejs合并压缩例子
 ## 使用
 #### 发布：
-```node
+```shell
 grunt releave
 ```
 #### server：
-```node
+```shell
 grunt server
 ```
