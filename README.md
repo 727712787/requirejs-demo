@@ -2,6 +2,10 @@
 一个简单的requirejs合并压缩例子
 ## 使用
 #### 安装环境：
+- 下载本DEMO
+```shell
+git clone https://github.com/Gavin-js/requirejs-demo.git
+```
 - 安装 [node](https://nodejs.org/)
 - 在项目下运行 `npm install` 命令
 ```shell
